@@ -1,0 +1,26 @@
+body {
+  /*background: rgba(100,100,100,1);*/
+}
+
+.Ia {
+  /*margin: 150px 20% auto 20%;*/
+  /*padding-bottom: 30px;*/
+  background: black;
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*margin: 0;*/
+  padding: 17.4%;
+}
+
+.controller {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  background: lightgray;
+  margin: auto;
+  padding: 100px;
+}
+
+#voice {
+  justify-content: center;
+}
